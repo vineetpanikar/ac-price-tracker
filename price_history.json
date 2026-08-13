@@ -2,17 +2,29 @@
   "products": {
     "climaexpert_cool_air_split_4_3_eco": {
       "display_name": "Climaexpert Cool Air Split 4.3 Eco (split air conditioner)",
-      "lowest_price_chf": null,
-      "lowest_price_url": null,
-      "lowest_price_date": null,
-      "history": []
+      "lowest_price_chf": 2549.00,
+      "lowest_price_url": "https://www.galaxus.ch/de/s2/product/climaexpert-cool-air-split-43-eco-60-m-14700-btuh-klimaanlage-22921010",
+      "lowest_price_date": "2026-08-13",
+      "history": [
+        {
+          "date": "2026-08-13",
+          "price_chf": 2549.00,
+          "url": "https://www.galaxus.ch/de/s2/product/climaexpert-cool-air-split-43-eco-60-m-14700-btuh-klimaanlage-22921010"
+        }
+      ]
     },
     "midea_porta_split": {
       "display_name": "Midea Porta Split air conditioner",
-      "lowest_price_chf": null,
-      "lowest_price_url": null,
-      "lowest_price_date": null,
-      "history": []
+      "lowest_price_chf": 1189.45,
+      "lowest_price_url": "https://www.galaxus.ch/en/s2/product/midea-porta-split-42-m-1194250-btuh-klimaanlage-40851329",
+      "lowest_price_date": "2026-08-13",
+      "history": [
+        {
+          "date": "2026-08-13",
+          "price_chf": 1189.45,
+          "url": "https://www.galaxus.ch/en/s2/product/midea-porta-split-42-m-1194250-btuh-klimaanlage-40851329"
+        }
+      ]
     }
   }
 }
