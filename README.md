@@ -9,4 +9,3 @@ Daily price tracking for two split air conditioners, sold within Switzerland:
 a full history log. A scheduled Claude Code cloud routine updates this file
 daily and sends a push notification when a new all-time-low price is found.
 
-test
