@@ -70,6 +70,11 @@
           "date": "2026-08-25",
           "price_chf": 2549.00,
           "url": "https://www.galaxus.ch/de/s2/product/climaexpert-cool-air-split-43-eco-60-m-14700-btuh-klimaanlage-22921010"
+        },
+        {
+          "date": "2026-08-26",
+          "price_chf": 2549.00,
+          "url": "https://www.galaxus.ch/de/s2/product/climaexpert-cool-air-split-43-eco-60-m-14700-btuh-klimaanlage-22921010"
         }
       ]
     },
@@ -126,6 +131,11 @@
         },
         {
           "date": "2026-08-25",
+          "price_chf": 999.00,
+          "url": "https://ecofort.ch/products/midea-portasplit"
+        },
+        {
+          "date": "2026-08-26",
           "price_chf": 999.00,
           "url": "https://ecofort.ch/products/midea-portasplit"
         }
