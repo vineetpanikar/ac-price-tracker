@@ -90,14 +90,19 @@
           "date": "2026-08-29",
           "price_chf": 2549.00,
           "url": "https://www.galaxus.ch/de/s2/product/climaexpert-cool-air-split-43-eco-60-m-14700-btuh-klimaanlage-22921010"
+        },
+        {
+          "date": "2026-08-30",
+          "price_chf": 2549.00,
+          "url": "https://www.galaxus.ch/de/s2/product/climaexpert-cool-air-split-43-eco-60-m-14700-btuh-klimaanlage-22921010"
         }
       ]
     },
     "midea_porta_split": {
       "display_name": "Midea Porta Split air conditioner",
-      "lowest_price_chf": 999.00,
-      "lowest_price_url": "https://ecofort.ch/products/midea-portasplit",
-      "lowest_price_date": "2026-08-22",
+      "lowest_price_chf": 845.00,
+      "lowest_price_url": "https://www.hornbach.ch/de/p/mobile-split-klimaanlage-midea-portasplit-ch-12000-btu-42m-weiss/12613899/",
+      "lowest_price_date": "2026-08-30",
       "history": [
         {
           "date": "2026-08-13",
@@ -168,6 +173,11 @@
           "date": "2026-08-29",
           "price_chf": 999.00,
           "url": "https://ecofort.ch/products/midea-portasplit"
+        },
+        {
+          "date": "2026-08-30",
+          "price_chf": 845.00,
+          "url": "https://www.hornbach.ch/de/p/mobile-split-klimaanlage-midea-portasplit-ch-12000-btu-42m-weiss/12613899/"
         }
       ]
     }
