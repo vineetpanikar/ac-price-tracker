@@ -215,14 +215,19 @@
           "date": "2026-09-23",
           "price_chf": 1955.00,
           "url": "https://climaexpert.ch/en/products/cool-air-split-4-3-eco-60-m-14672-btu-h"
+        },
+        {
+          "date": "2026-09-24",
+          "price_chf": 2549.00,
+          "url": "https://www.digitec.ch/de/s1/product/climaexpert-cool-air-split-43-eco-60-m-14700-btuh-klimaanlage-22921010"
         }
       ]
     },
     "midea_porta_split": {
       "display_name": "Midea Porta Split air conditioner",
-      "lowest_price_chf": 845.00,
+      "lowest_price_chf": 795.24,
       "lowest_price_url": "https://www.hornbach.ch/de/p/mobile-split-klimaanlage-midea-portasplit-ch-12000-btu-42m-weiss/12613899/",
-      "lowest_price_date": "2026-08-30",
+      "lowest_price_date": "2026-09-24",
       "history": [
         {
           "date": "2026-08-13",
@@ -417,6 +422,11 @@
         {
           "date": "2026-09-23",
           "price_chf": 845.00,
+          "url": "https://www.hornbach.ch/de/p/mobile-split-klimaanlage-midea-portasplit-ch-12000-btu-42m-weiss/12613899/"
+        },
+        {
+          "date": "2026-09-24",
+          "price_chf": 795.24,
           "url": "https://www.hornbach.ch/de/p/mobile-split-klimaanlage-midea-portasplit-ch-12000-btu-42m-weiss/12613899/"
         }
       ]
